@@ -719,6 +719,11 @@ footer ul li a{
         font-size: 1rem;
       }
 
+    .project-card img{
+        width: 40vw;
+
+    }
+
     /* ------------- Contacts Styling -----------------*/
 
     #f-container{
