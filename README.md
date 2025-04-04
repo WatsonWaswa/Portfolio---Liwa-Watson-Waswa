@@ -1,7 +1,8 @@
 👨‍💻 Portfolio — Liwa Watson Waswa
 This is my personal portfolio website, built to showcase my projects, skills, and career journey as a Software Engineer and Graphic Designer. It is live and accessible via GitHub Pages.
 
-🔗 Live Demo: watsonwaswa.github.io/Portfolio---Liwa-Watson-Waswa
+🔗 Live Demo: watsonwaswa.github.io/Portfolio---Liwa-Watson-Waswa  
+https://watsonwaswa.github.io/Portfolio---Liwa-Watson-Waswa/ 
 
 🚀 About This Project
 This responsive, multi-section portfolio site serves as an online résumé and work showcase. It was designed to reflect my passion for clean code, creative design, and practical problem-solving.
